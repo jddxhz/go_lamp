@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"go_code/websocket/impl"
-	"go_code/websocket/task"
+	"code.lampworld.xyz/go_lamp/websocket/impl"
+	"code.lampworld.xyz/go_lamp/websocket/task"
 
 	"github.com/gorilla/websocket"
 )

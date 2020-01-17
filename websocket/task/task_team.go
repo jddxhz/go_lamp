@@ -2,11 +2,12 @@ package task
 
 import (
 	"fmt"
-	"go_code/websocket/config"
-	msdb "go_code/websocket/db"
 	"math/rand"
 	"strconv"
 	"time"
+
+	"code.lampworld.xyz/go_lamp/websocket/config"
+	msdb "code.lampworld.xyz/go_lamp/websocket/db"
 )
 
 //队伍

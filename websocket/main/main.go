@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"go_code/websocket/myweb"
-	"go_code/websocket/socket"
+	"code.lampworld.xyz/go_lamp/websocket/myweb"
+	"code.lampworld.xyz/go_lamp/websocket/socket"
 
-	"go_code/websocket/timer"
+	"code.lampworld.xyz/go_lamp/websocket/timer"
 )
 
 func main() {

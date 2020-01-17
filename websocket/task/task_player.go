@@ -3,9 +3,10 @@ package task
 import (
 	"errors"
 	"fmt"
-	"go_code/websocket/config"
-	msdb "go_code/websocket/db"
 	"strconv"
+
+	"code.lampworld.xyz/go_lamp/websocket/config"
+	msdb "code.lampworld.xyz/go_lamp/websocket/db"
 )
 
 //玩家
