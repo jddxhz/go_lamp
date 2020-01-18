@@ -2,9 +2,10 @@ package timer
 
 import (
 	"fmt"
-	"go_code/websocket/config"
-	"go_code/websocket/task"
 	"time"
+
+	"code.lampworld.xyz/go_lamp/websocket/config"
+	"code.lampworld.xyz/go_lamp/websocket/task"
 )
 
 var (

@@ -27,7 +27,7 @@ func NewDb() msdb {
 		port:     1433,
 		user:     "sa",
 		password: "sa",
-		database: "LampWorld",
+		database: "ShenDengWord",
 		conn:     nil,
 	}
 }
